@@ -1,0 +1,4 @@
+baseURL = "https://aditya-konarde.github.io/"
+languageCode = "en-us"
+title = "Aditya Konarde's Blog"
+theme = "ananke"
